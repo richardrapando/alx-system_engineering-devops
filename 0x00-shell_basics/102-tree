@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir welcome/top welcome/top/welcome
+mkdir welcome/top/welcome
