@@ -1,1 +1,3 @@
-ALX assignment
+mkdir 0x00-shell_basics cd 0x00-shell  
+touch README.md vi README.md
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
