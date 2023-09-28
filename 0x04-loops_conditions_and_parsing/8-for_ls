@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#The above script displays content of a current dir after the first dash
+
+list=$(ls)
+for i in $list; do
+	echo "$i" | cut -d '-' -f2
+done
