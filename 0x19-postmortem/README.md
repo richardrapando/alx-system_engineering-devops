@@ -1,3 +1,8 @@
+https://docs.google.com/document/d/1VTz0NJI4gAYPeVp3DQfOI9gfjj7udT26FTc5Y9o8UQs/edit?usp=sharing
+
+
+
+
 A report on server failure.
 -A complaint reported to the engineering team that requests made to the server was returning a 500 Error resulting to delayed service delivery. It was established that the problem was from a configuration file of the web_stack_debugging_1 server
 
